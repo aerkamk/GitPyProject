@@ -86,7 +86,8 @@ window.onkey(goDown,'Down')
 window.onkey(goRight,'Right')
 window.onkey(goLeft,'Left')
 
-
+#Hello Word!
+time.sleep(1);
 
 
 while True:
