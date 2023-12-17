@@ -61,3 +61,5 @@ while True:
         write.write('Poins {}'.format(point), align='center', font=('Courier', 24, 'normal'))
         time.sleep(10)
         point = 0
+
+print("Game is over!!!")
