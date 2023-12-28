@@ -1,7 +1,7 @@
 import turtle
 import random
 import time
-#Test123456
+#Test1234567
 
 def points(x, y):
     global point
