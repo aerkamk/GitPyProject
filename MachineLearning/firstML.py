@@ -4,7 +4,7 @@ import matplotlib.pyplot as pyplot
 
 veriler = pd.read_csv('veriler.csv')
 
-#ulke,boy,kilo,yas,cinsiyet
+#ulke,boy,kilo,yas,cinsiyet verileri
 ulke=veriler[['ulke']]
 boy= veriler[['boy']]
 kilo= veriler[['kilo']]
